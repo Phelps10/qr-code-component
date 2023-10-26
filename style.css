@@ -18,13 +18,15 @@ body {
     border-radius: 19px;
     width: 380px;
     height: 630px;
+    margin-top: 30vh;
     padding: 20px 10px 20px 19px;
     box-shadow: 2px 2px 50px #D3D3D3;
 }
 
 #qr-code {
-    justify-content: center;
     display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 15px;
     height: 370px;
 }
@@ -49,8 +51,9 @@ body {
 
 
 .attribution { 
-    margin-top: 18px;
-    font-size: 11px;
+    font-family: 'Outfit', sans-serif;
+    margin-top: 50px;
+    font-size: 20px;
     text-align: center;
  }
  
